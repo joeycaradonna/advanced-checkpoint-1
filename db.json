@@ -1,5 +1,70 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "poster_path": "/2qAgGeYdLjelOEqjW9FYvPHpplC.jpg",
+      "adult": false,
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "release_date": "1995-05-24",
+      "original_title": "Braveheart",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 197,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Braveheart",
+      "backdrop_path": "/dVZNSiUG8TDzNuaR87NKVTNYhWX.jpg",
+      "popularity": 4.183124,
+      "vote_count": 2904,
+      "video": false,
+      "vote_average": 7.6,
+      "_id": 1
+    },
+    {
+      "poster_path": "/3PEAkZHa8ehfUkuKbzmQNRTTAAs.jpg",
+      "adult": false,
+      "overview": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
+      "release_date": "1994-12-16",
+      "original_title": "Dumb and Dumber",
+      "genre_ids": [
+        35
+      ],
+      "id": 8467,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Dumb and Dumber",
+      "backdrop_path": "/c5F5lNJOr9w8gb9J5XXMl4z6tuq.jpg",
+      "popularity": 2.661525,
+      "vote_count": 1537,
+      "video": false,
+      "vote_average": 6.5,
+      "_id": 2
+    },
+    {
+      "poster_path": "/ssY4EvRvufUZooNq1buRUrW7lCX.jpg",
+      "adult": false,
+      "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+      "release_date": "2004-04-09",
+      "original_title": "Shaun of the Dead",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 747,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Shaun of the Dead",
+      "backdrop_path": "/50mMiR0R1QclaAODTutwXBrReLJ.jpg",
+      "popularity": 3.728776,
+      "vote_count": 1992,
+      "video": false,
+      "vote_average": 7.5,
+      "_id": 3
+    }
+  ],
   "posts": [
     {
       "id": 1,
